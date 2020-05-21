@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riksof-anas/cordova-plugin-background-geolocation.git"
+    "url": "git+https://github.com/Riksof-awais/cordova-plugin-background-geolocation.git"
   },
   "keywords": [
     "gps",
@@ -41,7 +41,7 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/riksof-anas/cordova-plugin-background-geolocation/issues"
+    "url": "https://github.com/Riksof-awais/cordova-plugin-background-geolocation/issues"
   },
-  "homepage": "https://github.com/riksof-anas/cordova-plugin-background-geolocation#readme"
+  "homepage": "https://github.com/Riksof-awais/cordova-plugin-background-geolocation#readme"
 }
