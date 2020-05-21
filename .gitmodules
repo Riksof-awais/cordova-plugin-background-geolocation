@@ -2,5 +2,5 @@
 	path = ios/common
 	url = https://github.com/riksof-anas/background-geolocation-ios.git
 [submodule "android/common"]
-	path = ios/common
+	path = android/common
 	url = https://github.com/Riksof-awais/background-geolocation-android.git
